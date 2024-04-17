@@ -15,7 +15,7 @@ The Flashcards Redux App allows users to:
 - Allow users to interact with their quizzes by flipping flashcards over
 
 ## Demo
-Check out the live demo of the Flashcards Redux App [here](https://mm-.netlify.app/).
+Check out the live demo of the Flashcards Redux App [here](https://mm-flash-cards-app.netlify.app/).
 
 ## Features
 - **Topic Management:** Users can create, edit, and delete topics for their quizzes.
